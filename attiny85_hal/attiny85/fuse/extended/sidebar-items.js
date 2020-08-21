@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["EXTENDED_SPEC",""],["R","Reader of register EXTENDED"],["SELFPRGEN_R","Reader of field `SELFPRGEN`"],["SELFPRGEN_W","Write proxy for field `SELFPRGEN`"],["W","Writer for register EXTENDED"]]});

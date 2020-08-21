@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["R","Reader of register USBINT"],["USBINT_SPEC",""],["VBUSTI_R","Reader of field `VBUSTI`"],["VBUSTI_W","Write proxy for field `VBUSTI`"],["W","Writer for register USBINT"]]});

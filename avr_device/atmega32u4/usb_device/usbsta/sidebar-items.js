@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["R","Reader of register USBSTA"],["SPEED_R","Reader of field `SPEED`"],["USBSTA_SPEC",""],["VBUS_R","Reader of field `VBUS`"]]});

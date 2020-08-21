@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["EPDIR_R","Reader of field `EPDIR`"],["EPDIR_W","Write proxy for field `EPDIR`"],["EPTYPE_R","Reader of field `EPTYPE`"],["EPTYPE_W","Write proxy for field `EPTYPE`"],["R","Reader of register UECFG0X"],["UECFG0X_SPEC",""],["W","Writer for register UECFG0X"]]});

@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["R","Reader of register UDFNUM"],["UDFNUM_SPEC",""],["W","Writer for register UDFNUM"]]});
